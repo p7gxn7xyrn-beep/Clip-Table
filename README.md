@@ -3,3 +3,6 @@
 
 
 This is my first project, and it currently does not support online updates. This tool integrates clipboards, notepads, and calculators to enhance efficiency, aiming to improve workers' work efficiency and save time and effort from slacking off. Currently, the clipboard tool's features are not yet fully developed. If you encounter bugs or share your ideas during the experience, feel free to add me on WeChat or email shuyangli04@126.com chat (only user feedback and donations from Clip Table are supported). Before everything begins, you can download Clip Tbale's manual and try it if it suits you~ If possible, could you give me a star rating :)
+
+
+

@@ -19,6 +19,12 @@
 如果它帮你省下了一点重复劳动的时间（拿去摸鱼也行），可以给我点个 Star 吗 ：）
 
 
+
+
+
+
+
+
 # ClipTable
 
 A tiny utility that lives in your taskbar: whatever you copy, it quietly collects into a table — paste the whole thing into Excel when you're ready.

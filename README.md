@@ -1,6 +1,19 @@
-# Clip-Table
-这是我的第一个项目，暂时不支持联网更新。该工具是集剪贴板、记事本、计算器为一体的提效工具，旨在提高打工人的工作效率，为自己省下摸鱼的时间和精力。目前剪贴板工具的功能还不够完善，如果在体验过程中遇到bug和你的ideas，欢迎加我的微信或邮箱shuyangli04@126.com交流（仅支持Clip Table的用户反馈和捐赠）。在一切开始前，你可以先下载Clip Tbale的说明书，觉得合适再体验~如果可以的话，可以给我点个star吗 ：）
+ClipTable
 
+一个常驻任务栏的小工具：你复制什么，它自动收成表格，攒够了一次性粘进 Excel。
 
-This is my first project, and it currently does not support online updates. This tool integrates clipboards, notepads, and calculators to enhance efficiency, aiming to improve workers' work efficiency and save time and effort from slacking off. Currently, the clipboard tool's features are not yet fully developed. If you encounter bugs or share your ideas during the experience, feel free to add me on WeChat or email shuyangli04@126.com chat (only user feedback and donations from Clip Table are supported). Before everything begins, you can download Clip Tbale's manual and try it if it suits you~ If possible, could you give me a star rating :)
+能做什么
 
+复制即收表 — 名单、数据行、整张网页表格，按行列自动拆好
+三种形态 — 表格 / 记事板 / 图片，轻点 Shift 切换
+计算台 — 在表格里敲算式直接算，旁边带速记板
+一键导出 — 复制为表格（直接粘进 Excel）、CSV、xlsx
+模板填充 — 录一次模板，之后批量套用
+全内存 — 不联网、不落盘，退出即清空
+说明
+
+这是我第一个项目，目前没有自动更新，新版本需要手动下载安装。剪贴板部分功能还不够完善，体验中遇到 bug 或有想法，欢迎加我微信或发邮件到 shuyangli04@126.com 交流（仅限 ClipTable 相关的反馈与捐赠）。
+
+建议先下载说明书看看，觉得合适再体验。
+
+如果它帮你省下了一点重复劳动的时间（拿去摸鱼也行），可以给我点个 Star 吗 ：）

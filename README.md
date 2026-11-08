@@ -4,12 +4,12 @@
 
 # 能做什么
 
-## 复制即收表 — 名单、数据行、整张网页表格，按行列自动拆好
-## 三种形态 — 表格 / 记事板 / 图片，轻点 Shift 切换
-## 计算台 — 在表格里敲算式直接算，旁边带速记板
-## 一键导出 — 复制为表格（直接粘进 Excel）、CSV、xlsx
-## 模板填充 — 录一次模板，之后批量套用
-## 全内存 — 不联网、不落盘，退出即清空
+复制即收表 — 名单、数据行、整张网页表格，按行列自动拆好
+三种形态 — 表格 / 记事板 / 图片，轻点 Shift 切换
+计算台 — 在表格里敲算式直接算，旁边带速记板
+一键导出 — 复制为表格（直接粘进 Excel）、CSV、xlsx
+模板填充 — 录一次模板，之后批量套用
+全内存 — 不联网、不落盘，退出即清空
 # 说明
 
 这是我第一个项目，目前没有自动更新，新版本需要手动下载安装。剪贴板部分功能还不够完善，体验中遇到 bug 或有想法，欢迎加我微信或发邮件到 shuyangli04@126.com 交流（仅限 ClipTable 相关的反馈与捐赠）。
@@ -25,12 +25,12 @@ A tiny utility that lives in your taskbar: whatever you copy, it quietly collect
 
 # What it does
 
-## Copy → table — Name lists, data rows, or an entire web table; rows and columns are split automatically.
-## Three modes — Table / Notes / Images. Tap Shift to cycle between them.
-## Calculator — Type an expression right inside the table and get the result; a scratchpad sits alongside.
-## One-click export — Copy as a table (pastes straight into Excel), CSV, or xlsx.
-## Template fill — Record a template once, then reuse it in bulk.
-## In-memory only — No network access, nothing written to disk, everything wiped on exit.
+Copy → table — Name lists, data rows, or an entire web table; rows and columns are split automatically.
+Three modes — Table / Notes / Images. Tap Shift to cycle between them.
+Calculator — Type an expression right inside the table and get the result; a scratchpad sits alongside.
+One-click export — Copy as a table (pastes straight into Excel), CSV, or xlsx.
+Template fill — Record a template once, then reuse it in bulk.
+In-memory only — No network access, nothing written to disk, everything wiped on exit.
 
 # Notes
 
